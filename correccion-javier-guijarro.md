@@ -5,6 +5,8 @@ Persona evaluada: Daniel Salmerón.
 Mi repositorio: https://github.com/Caimancai11/GITPR-iaw.git
 Repositorio que evalúo: https://github.com/dgal-89/gestoresContenido.git.
 
+## Maravilloso documento, ya lo he editado.
+
 ## A. Puntuación de la investigación
 
 | Código | Criterio | Máximo | Puntos asignados | Evidencia y justificación concreta |
